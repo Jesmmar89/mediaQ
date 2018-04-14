@@ -2,3 +2,9 @@
     rojo: #ba1820;
     font-family: Times New Roman;
 */
+body{
+        background-image: url("C:/Users/Jesmmar/Desktop/hubcamp/mediaQueries/img/graphtile.png");
+        background-size: 5% 5%;
+        width:100%;
+        height:500px;
+}
